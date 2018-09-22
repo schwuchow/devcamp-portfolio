@@ -18,7 +18,5 @@ end
 ```
 
 ```javascript
-def my_great_method
   alert('Hi there');
-end
 ```
