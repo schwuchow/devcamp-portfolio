@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/schwuchow/devcamp_view_tool_tt
+  revision: 0e24f16bfff34d0f0287b4a3b6a0db15e8156d13
+  specs:
+    devcamp_view_tool_tt (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -205,6 +211,7 @@ DEPENDENCIES
   bootstrap (~> 4.1.3)
   byebug
   coffee-rails (~> 4.2)
+  devcamp_view_tool_tt!
   devise (~> 4.5)
   friendly_id (~> 5.1.0)
   jbuilder (~> 2.5)
